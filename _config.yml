@@ -95,15 +95,15 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ansnail
-    repo: blog-comments
-    oauth:
-        client_id: a354dc9f3cc6e240a739
-        client_secret: d293236e111e0a093f055a4c32373bbfb676a9d7
+#    owner: ansnail
+#    repo: blog-comments
+#    oauth:
+#        client_id: a354dc9f3cc6e240a739
+#        client_secret: d293236e111e0a093f055a4c32373bbfb676a9d7
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: ansnail
-    repo: blog-comments
+    repo: ansnail.github.io
     clientID: a354dc9f3cc6e240a739
     clientSecret: d293236e111e0a093f055a4c32373bbfb676a9d7
 # 在使用其它评论组件时可点击显示 Disqus
